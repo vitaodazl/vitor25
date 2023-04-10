@@ -1,4 +1,17 @@
-. corpo{
+. cabec{
+    position: absolute;
+    width: 1440px;
+    height: 181px;
+    left: 0px;
+    top: 15px;
+    
+    background: linear-gradient(180deg, #362E2E 0%, rgba(54, 46, 46, 0) 100%);   
+    
+    
+    
+    
+}
+body{
 
     position: absolute;
 width: 1170px;
