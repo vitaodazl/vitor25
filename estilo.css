@@ -11,6 +11,21 @@
     
     
 }
+.apre{
+    position: absolute;
+width: 253px;
+height: 53px;
+left: 730px;
+top: 92px;
+
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 59px;
+
+color: #FFFFFF;
+}
 body{
 
     position: absolute;
