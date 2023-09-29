@@ -1,173 +1,152 @@
-.desktop-1,
-.desktop-1 * {
+.frame-1,
+.frame-1 * {
   box-sizing: border-box;
 }
-.desktop-1 {
-  background: #ffffff;
-  width: 1440px;
-  height: 1024px;
-  position: relative;
-  overflow: hidden;
-}
-.rectangle-1 {
-  background: linear-gradient(
-    181.6deg,
-    rgba(255, 255, 255, 1) 0%,
-    rgba(241, 241, 241, 1) 0.009999999747378752%,
-    rgba(54, 46, 46, 1) 0.019999999494757503%
-  );
-  width: 1831px;
-  height: 181px;
-  position: absolute;
-  left: -292px;
-  top: 0px;
-}
-.rectangle-2 {
+.frame-1 {
   background: linear-gradient(
     180deg,
-    rgba(54, 46, 46, 1) 22.91666716337204%,
+    rgba(54, 46, 46, 1) 89.33792114257812%,
     rgba(54, 46, 46, 0) 100%
   );
-  width: 1447px;
-  height: 183px;
-  position: absolute;
-  left: -7px;
-  top: 847px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1513.11px;
+  height: 845.61px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(-0.2deg) scale(1, 1);
+  overflow: hidden;
 }
-.rectangle-3 {
-  background: #362e2e;
-  width: 1474px;
-  height: 666px;
+.neymar-nos-seus-passes-a-beleza-no-seus-dibles-a-certeza {
+  color: #ffffff;
+  text-align: left;
+  font: 400 36px "Inter", sans-serif;
   position: absolute;
-  left: -34px;
-  top: 181px;
+  left: 219.31px;
+  top: 770.05px;
+  width: 1019px;
+  height: 44.02px;
+}
+.ney-1 {
+  width: 177px;
+  height: 194px;
+  position: absolute;
+  left: 1065.12px;
+  top: 541.06px;
+}
+.hamister-noiado-1 {
+  width: 177px;
+  height: 194px;
+  position: absolute;
+  left: 667.12px;
+  top: 539.67px;
+}
+.mousseeee-1 {
+  width: 177px;
+  height: 194px;
+  position: absolute;
+  left: 246.13px;
+  top: 537.2px;
+}
+.teddd-1 {
+  width: 177px;
+  height: 194px;
+  position: absolute;
+  left: 248.05px;
+  top: 272.21px;
+}
+.serieee-1 {
+  width: 177px;
+  height: 194px;
+  position: absolute;
+  left: 663.04px;
+  top: 275.65px;
 }
 .sou-o-vitor {
   color: #ffffff;
   text-align: left;
-  font: 400 50px "Italiana", sans-serif;
+  font: 400 96px "Island Moments", sans-serif;
   position: absolute;
-  left: 720px;
-  top: 53px;
-  width: 253px;
-  height: 53px;
+  left: 751.72px;
+  top: 81.34px;
+  transform-origin: 0 0;
+  transform: rotate(0.2deg) scale(1, 1);
 }
-.rectangle-4 {
-  width: 176px;
-  height: 286px;
+.vitor-1 {
+  border-radius: 100.5px;
+  width: 201px;
+  height: 207px;
   position: absolute;
-  left: 204px;
-  top: 215px;
+  left: 462.92px;
+  top: 23.34px;
+  transform-origin: 0 0;
+  transform: rotate(0.2deg) scale(1, 1);
+}
+.musica-1 {
+  width: 177px;
+  height: 194px;
+  position: absolute;
+  left: 1065.04px;
+  top: 277.06px;
 }
 .filme {
   color: #ffffff;
   text-align: left;
-  font: 400 50px "Anek Telugu", sans-serif;
+  font: 400 36px "Inter", sans-serif;
   position: absolute;
-  left: 236px;
-  top: 152px;
-  width: 172px;
-  height: 9px;
-}
-.rectangle-5 {
-  width: 176px;
-  height: 286px;
-  position: absolute;
-  left: 632px;
-  top: 228px;
-}
-.s-rie {
-  color: #ffffff;
-  text-align: left;
-  font: 400 50px "Anek Telugu", sans-serif;
-  position: absolute;
-  left: 663px;
-  top: 152px;
-  width: 158px;
-  height: 13px;
-}
-.rectangle-6 {
-  width: 176px;
-  height: 286px;
-  position: absolute;
-  left: 1053px;
-  top: 228px;
-}
-.musica {
-  color: #ffffff;
-  text-align: left;
-  font: 400 50px "Anek Telugu", sans-serif;
-  position: absolute;
-  left: 1062px;
-  top: 152px;
-  width: 167px;
-  height: 18px;
-}
-.rectangle-7 {
-  width: 176px;
-  height: 258px;
-  position: absolute;
-  left: 204px;
-  top: 589px;
+  left: 291.21px;
+  top: 226.74px;
+  transform-origin: 0 0;
+  transform: rotate(0.2deg) scale(1, 1);
 }
 .comida {
   color: #ffffff;
   text-align: left;
-  font: 400 50px "Anek Telugu", sans-serif;
+  font: 400 36px "Inter", sans-serif;
   position: absolute;
-  left: 215px;
-  top: 529px;
-  width: 155px;
-  height: 21px;
-}
-.rectangle-8 {
-  width: 176px;
-  height: 263px;
-  position: absolute;
-  left: 632px;
-  top: 584px;
+  left: 270.25px;
+  top: 500.67px;
+  transform-origin: 0 0;
+  transform: rotate(0.2deg) scale(1, 1);
 }
 .animal {
   color: #ffffff;
   text-align: left;
-  font: 400 50px "Anek Telugu", sans-serif;
+  font: 400 36px "Inter", sans-serif;
   position: absolute;
-  left: 649px;
-  top: 529px;
-  width: 142px;
-  height: 34px;
-}
-.rectangle-9 {
-  width: 346px;
-  height: 258px;
-  position: absolute;
-  left: 987px;
-  top: 583px;
+  left: 694.25px;
+  top: 502.15px;
+  transform-origin: 0 0;
+  transform: rotate(0.2deg) scale(1, 1);
 }
 .neymar {
   color: #ffffff;
   text-align: left;
-  font: 400 50px "Anek Telugu", sans-serif;
+  font: 400 36px "Inter", sans-serif;
   position: absolute;
-  left: 1083px;
-  top: 529px;
-  width: 212px;
-  height: 5px;
+  left: 1088.26px;
+  top: 501.52px;
+  transform-origin: 0 0;
+  transform: rotate(0.2deg) scale(1, 1);
 }
-.neymar-no-seus-passes-a-beleza-no-seus-dibles-a-certeza {
+.m-sica {
   color: #ffffff;
   text-align: left;
-  font: 400 50px "Anek Telugu", sans-serif;
+  font: 400 36px "Inter", sans-serif;
   position: absolute;
-  left: 315px;
-  top: 856px;
-  width: 914px;
-  height: 69px;
+  left: 1094.17px;
+  top: 238.54px;
+  transform-origin: 0 0;
+  transform: rotate(0.2deg) scale(1, 1);
 }
-.rectangle-10 {
-  width: 163px;
-  height: 159px;
+.s-rie {
+  color: #ffffff;
+  text-align: left;
+  font: 400 36px "Inter", sans-serif;
   position: absolute;
-  left: 469px;
-  top: 11px;
+  left: 703.2px;
+  top: 231.18px;
+  transform-origin: 0 0;
+  transform: rotate(0.2deg) scale(1, 1);
 }
